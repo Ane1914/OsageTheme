@@ -1,0 +1,139 @@
+{
+    "name": "おさげちゃん",
+    "description": "Osage-chan theme by サツネ",
+    "authors": [
+        {
+            "name": "サツネ",
+            "id": "491589277294133259"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#F8333C"
+        ],
+        "HEADER_SECONDARY": [
+            "#F96269"
+        ],
+        "TEXT_NORMAL": [
+            "#c9c9c9"
+        ],
+        "TEXT_MUTED": [
+            "#8a8a8a"
+        ],
+        "TEXT_DANGER": [
+            "#F6131E"
+        ],
+        "TEXT_LINK": [
+            "#4692E3"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#B3B3B3"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#7fc5f4"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#4692E3"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#616161"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#B3B3B3"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#494850"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2C2C34"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2C2C34"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#111111"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2C2C34"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#B3B3B3"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#494850"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#454545"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#454545"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#1f1f1f"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1f1f1f"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1f1f1f"
+        ],
+        "KEYBOARD": [
+            "#1f1f1f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#c9c9c9"
+        ],
+        "CHANNEL_ICON": [
+            "#8a8a8a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8a8a8a"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1f1f1f"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#1f1f1f",
+        "PRIMARY_100": "#c9c9c9",
+        "PRIMARY_200": "#8a8a8a",
+        "PRIMARY_300": "#ad2121",
+        "PRIMARY_360": "#8a8a8a",
+        "PRIMARY_400": "#ad2121",
+        "PRIMARY_500": "#ad2121",
+        "PRIMARY_600": "#1f1f1f",
+        "PRIMARY_630": "#1f1f1f",
+        "PRIMARY_660": "#1f1f1f",
+        "PRIMARY_700": "#1f1f1f",
+        "PRIMARY_800": "#1f1f1f",
+        "PRIMARY_900": "#1f1f1f",
+        "YELLOW_300": "#ad2121",
+        "BRAND_260": "#ad2121",
+        "BRAND_360": "#ad2121",
+        "BRAND_500": "#ad2121",
+        "BRAND_560": "#db6b6b",
+        "GREEN_360": "#ad2121",
+        "RED_400": "#ad2121",
+        "ORANGE_345": "#ad2121",
+        "RED_560": "#ad2121",
+        "GREEN_345": "#ad2121",
+        "BLUE_345": "#ad2121",
+        "WHITE_500": "#c9c9c9"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1019128939089764362/1106848331214356501/Untitled364_20230513103859.png",
+    "alpha": 0.68
+  },
+    "spec": 2
+}
